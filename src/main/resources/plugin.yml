@@ -2,3 +2,5 @@ name: BatsNBerries
 version: '${project.version}'
 main: green.animals.BatsNBerries
 api-version: 1.19
+authors: [ SomeGreenDude, PandaDev ]
+description: Adds more functionality to glow berries

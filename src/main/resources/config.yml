@@ -1,0 +1,17 @@
+# BatsNBerries Config
+
+## How many blocks the "sonar" effect reaches when feeding a bat a glow berry
+## Default: 20
+BatSonarDistance: 20
+
+## Duration mobs will glow from bat sonar
+## Default 140
+BatSonarGlowDuration: 140
+
+## How long a player should glow when they eat glow berries (in ticks)
+## Default: 200
+PlayerEatBerriesGlowDuration: 200
+
+## How long a player should glow when it eats glow berries (in ticks)
+## Default: 200
+FoxEatBerriesGlowDuration: 200
